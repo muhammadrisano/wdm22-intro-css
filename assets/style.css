@@ -1,0 +1,14 @@
+.btn-simpan{
+    background-color: orange;
+    color: white;
+}
+
+.btn-reset{
+    background-color: green;
+    color: white;
+}
+
+#title{
+    color: salmon;
+    text-align: center;
+}
